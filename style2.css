@@ -35,7 +35,7 @@ body {
   padding-top: 20px;
   padding-bottom: 25px;
 }
-.selection {
+#selection {
   padding: 8px 15px;
   background-color: hsl(216, 12%, 24%);
   border-radius: 20px;
@@ -43,7 +43,7 @@ body {
   width: -moz-fit-content;
   width: fit-content;
 }
-.selection p {
+#selection p {
   color: hsl(25, 97%, 53%);
   text-align: center;
 }
