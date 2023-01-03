@@ -1,3 +1,4 @@
+Link site to preview - https://oleseadeobari.github.io/Rate/
 # Frontend Mentor - Interactive rating component
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
