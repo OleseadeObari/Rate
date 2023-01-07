@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   background-color: hsl(216, 12%, 8%);
   position: relative;
@@ -72,6 +73,9 @@ body {
   color: hsl(216, 12%, 54%);
   cursor: pointer;
 }
+/* #one {
+  background-color: red;
+} */
 .button:hover {
   background-color: hsl(25, 97%, 53%);
   color: hsl(0, 0%, 100%);
